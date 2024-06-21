@@ -30,6 +30,7 @@ Handling Missing Values: Strategies such as imputation with mean/median/mode val
 Outlier Detection and Treatment: Identified outliers using statistical methods and visual inspections, then treated them appropriately to prevent skewing the analysis.
 Data Consistency Checks: Ensured consistency in data formats, units of measurement, and categorical values.
 Feature Engineering: Created new features that could enhance the analysis, such as age groups, income brackets, and time-based features (e.g., month, quarter).
+
 3. Exploratory Data Analysis (EDA)
 Exploratory Data Analysis (EDA) was conducted to gain a deeper understanding of the dataset and uncover preliminary insights. This phase involved:
 
@@ -37,6 +38,7 @@ Descriptive Statistics: Calculated basic statistics such as mean, median, mode, 
 Distribution Analysis: Examined the distribution of key variables to identify patterns and anomalies.
 Correlation Analysis: Assessed relationships between variables to understand how they influence each other.
 Segmentation Analysis: Segmented the data based on demographics and other relevant features to identify distinct customer groups.
+
 4. Visualization
 Visualization played a crucial role in interpreting and presenting the data. Using Matplotlib and Seaborn, we created a variety of visualizations to highlight significant patterns and trends:
 
@@ -45,6 +47,7 @@ Line Charts: Illustrated trends over time, such as monthly and quarterly sales.
 Heatmaps: Visualized correlations between different features.
 Pie Charts: Represented the proportion of sales attributed to various customer segments.
 Box Plots and Histograms: Provided insights into the spread and distribution of numerical features.
+
 5. Insight Generation
 The final phase involved synthesizing the findings from the EDA and visualizations into actionable insights. Key insights derived from the analysis included:
 
